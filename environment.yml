@@ -1,0 +1,24 @@
+# Testing libraries (nbval, flake8, and flake8-nb)
+# are not considered dependencies. They are pip-installed
+# separately on CI.
+
+name: npp2024
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.12
+  - openssl
+  - numpy
+  - matplotlib
+  - sympy
+  - scipy
+  - pandas
+  - conda-forge::pendulum
+  - conda-forge::nbdime
+  - conda-forge::jupytext
+  - jupyter
+  - nbclassic
+  - pip
+  - pip:
+     - -r requirements.txt

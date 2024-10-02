@@ -1,0 +1,7 @@
+pybryt
+jupyterlab
+notebook
+jupyter_contrib_nbextensions
+RISE
+json5
+pandocfilters
