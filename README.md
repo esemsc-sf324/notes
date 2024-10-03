@@ -37,7 +37,7 @@ We do *not* recommend using the "Download ZIP" button on the GitHub page for thi
 |2024-10-9  Wed | Debugging | Rhodri Nelson | Thomas Davison|
 |2024-10-10 Thu | Data Structures| Thomas Davison | James Percival |
 |2024-10-14 Mon | Python Scripts & Modules | Thomas Davison | James Percival|
-|2024-10-15 Tue | Algorithms|Marijan Beg| James Percival|
+|2024-10-15 Tue | Profiling, optimisation, and algorithms | Marijan Beg| James Percival|
 |2024-10-17 Thu | Visualization etc.|Thomas Davison| James Percival |
 |2024-10-18 Fri | Software Engineering |James Percival| Thomas Davison |
 
