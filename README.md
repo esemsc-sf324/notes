@@ -75,5 +75,5 @@ Assessment will be 100% by coursework completed during the course. Exercises wil
 
 |Release Date  | Due Date            | Topic                             |
 |--------------|---------------------|-----------------------------------|
-|2024-10-8 Tue| 2022-10-11 16:30 Fri| Applying Pandas|
-|2024-10-15 Tue| 2022-10-18 16:30 Fri| Writing a Python module|
+|2024-10-8 Tue| 2024-10-11 16:30 Fri| Applying Pandas|
+|2024-10-15 Tue| 2024-10-18 16:30 Fri| Writing a Python module|
